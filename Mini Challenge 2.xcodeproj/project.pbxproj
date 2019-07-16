@@ -15,6 +15,7 @@
 		43F77CCA22DDE524003B6EFE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43F77CC822DDE524003B6EFE /* LaunchScreen.storyboard */; };
 		43F77CD522DDE524003B6EFE /* Mini_Challenge_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43F77CD422DDE524003B6EFE /* Mini_Challenge_2Tests.swift */; };
 		43F77CE022DDE524003B6EFE /* Mini_Challenge_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43F77CDF22DDE524003B6EFE /* Mini_Challenge_2UITests.swift */; };
+		43F77CEE22DDE583003B6EFE /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 43F77CED22DDE583003B6EFE /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		43F77CDB22DDE524003B6EFE /* Mini Challenge 2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mini Challenge 2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		43F77CDF22DDE524003B6EFE /* Mini_Challenge_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mini_Challenge_2UITests.swift; sourceTree = "<group>"; };
 		43F77CE122DDE524003B6EFE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43F77CED22DDE583003B6EFE /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		43F77CB022DDE523003B6EFE = {
 			isa = PBXGroup;
 			children = (
+				43F77CED22DDE583003B6EFE /* .gitignore */,
 				43F77CBB22DDE523003B6EFE /* Mini Challenge 2 */,
 				43F77CD322DDE524003B6EFE /* Mini Challenge 2Tests */,
 				43F77CDE22DDE524003B6EFE /* Mini Challenge 2UITests */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				43F77CEE22DDE583003B6EFE /* .gitignore in Resources */,
 				43F77CCA22DDE524003B6EFE /* LaunchScreen.storyboard in Resources */,
 				43F77CC722DDE524003B6EFE /* Assets.xcassets in Resources */,
 				43F77CC222DDE523003B6EFE /* Main.storyboard in Resources */,
